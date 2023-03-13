@@ -16,3 +16,5 @@ We had a bit less than 2 weeks (since we also needed to make a report for the pr
 This is fully written in C# without use of any external frameworks.
 
 (This is only setup to work locally! We did test it online with a Virtual Machine which worked just fine too)
+
+BEWARE: The jeopardy game does not work! This is because of the REST service. But do please check out the code ;)
