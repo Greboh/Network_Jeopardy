@@ -28,7 +28,7 @@ public static class ConnectionHelper
     /// <summary>
     /// The ip used
     /// </summary>
-    public static string ip = "20.111.22.131";
+    public static string ip = "127.0.0.1";
     
     /// <summary>
     /// The port used
