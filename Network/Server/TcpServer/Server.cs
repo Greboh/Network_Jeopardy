@@ -64,10 +64,10 @@ public class Server
 
     public Server()
     {
-        _restAPi.ListenUrl();
-        _restAPi.CreateQuestion(true);
-        Thread setQuizThread = new Thread(InitializeJeopardy);
-        setQuizThread.Start();
+        // _restAPi.ListenUrl();
+        // _restAPi.CreateQuestion(true);
+        // Thread setQuizThread = new Thread(InitializeJeopardy);
+        // setQuizThread.Start();
 
         // Make the server listen to any ip and only our defined port
         _server = new(IPAddress.Any, ConnectionHelper.port);
