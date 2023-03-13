@@ -11,7 +11,7 @@ These Game Servers were made to be as modular and scaleable as possible.
 Our thoughts behind this was that we wanted to be able to increase the amount of players in the server 
 and also have the ability to create other games than Jeopardy and simple plug and play it into the game servers.
 
-We had a bit less than 2 weeks (since we also needed to made a report for the project) to make this which is why we ended up making it a console game. 
+We had a bit less than 2 weeks (since we also needed to make a report for the project) to make this which is why we ended up making it a console game. 
 
 This is written fully in C# without use of any external frameworks.
 
